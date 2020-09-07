@@ -9,3 +9,9 @@ C:\Users\Admin\Desktop\DesignPattern\DPPratice\FactoryPattern\bin\Debug\netcorea
 C:\Users\Admin\Desktop\DesignPattern\DPPratice\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.dll
 C:\Users\Admin\Desktop\DesignPattern\DPPratice\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.pdb
 C:\Users\Admin\Desktop\DesignPattern\DPPratice\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.dll
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\FactoryPattern\obj\Debug\netcoreapp2.1\FactoryPattern.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1209
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1CreationalPattern", "1CreationalPattern", "{9F4166C3-F295-4DC9-A281-3577E76AA4BD}"
 EndProject
@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainofReposibilities", "Ch
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{7BEB8493-375A-4084-9C1C-6641B1F30657}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{E2B3004F-7FC9-4270-9C95-80628FCA75BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{E2B3004F-7FC9-4270-9C95-80628FCA75BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{EB909E85-0B97-4115-B7A5-437357C1DA1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E2B3004F-7FC9-4270-9C95-80628FCA75BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2B3004F-7FC9-4270-9C95-80628FCA75BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2B3004F-7FC9-4270-9C95-80628FCA75BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB909E85-0B97-4115-B7A5-437357C1DA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB909E85-0B97-4115-B7A5-437357C1DA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB909E85-0B97-4115-B7A5-437357C1DA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB909E85-0B97-4115-B7A5-437357C1DA1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 		{34862C6D-6DF9-46F7-B49B-18609A656913} = {322A18C1-CAFA-4566-A9B1-A0CA42070541}
 		{7BEB8493-375A-4084-9C1C-6641B1F30657} = {9F4166C3-F295-4DC9-A281-3577E76AA4BD}
 		{E2B3004F-7FC9-4270-9C95-80628FCA75BF} = {9F4166C3-F295-4DC9-A281-3577E76AA4BD}
+		{EB909E85-0B97-4115-B7A5-437357C1DA1B} = {9F4166C3-F295-4DC9-A281-3577E76AA4BD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {017B01D4-90A2-4553-8BD3-C5362459A551}

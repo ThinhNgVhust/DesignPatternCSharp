@@ -8,3 +8,15 @@ C:\Users\Admin\Desktop\DesignPattern\DPPratice\Observer\bin\Debug\netcoreapp2.1\
 C:\Users\Admin\Desktop\DesignPattern\DPPratice\Observer\bin\Debug\netcoreapp2.1\Observer.pdb
 C:\Users\Admin\Desktop\DesignPattern\DPPratice\Observer\obj\Debug\netcoreapp2.1\Observer.dll
 C:\Users\Admin\Desktop\DesignPattern\DPPratice\Observer\obj\Debug\netcoreapp2.1\Observer.pdb
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\bin\Debug\netcoreapp2.1\Observer.deps.json
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.json
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\bin\Debug\netcoreapp2.1\Observer.dll
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\bin\Debug\netcoreapp2.1\Observer.pdb
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\obj\Debug\netcoreapp2.1\Observer.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\obj\Debug\netcoreapp2.1\Observer.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\obj\Debug\netcoreapp2.1\Observer.dll
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\obj\Debug\netcoreapp2.1\Observer.pdb
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\Observer\obj\Debug\netcoreapp2.1\Observer.genruntimeconfig.cache

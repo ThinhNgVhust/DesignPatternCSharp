@@ -9,3 +9,15 @@ C:\Users\Admin\Desktop\DesignPattern\DPPratice\ChainofReposibilities\bin\Debug\n
 C:\Users\Admin\Desktop\DesignPattern\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.dll
 C:\Users\Admin\Desktop\DesignPattern\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.pdb
 C:\Users\Admin\Desktop\DesignPattern\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\bin\Debug\netcoreapp2.1\ChainofReposibilities.deps.json
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\bin\Debug\netcoreapp2.1\ChainofReposibilities.runtimeconfig.json
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\bin\Debug\netcoreapp2.1\ChainofReposibilities.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\bin\Debug\netcoreapp2.1\ChainofReposibilities.dll
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\bin\Debug\netcoreapp2.1\ChainofReposibilities.pdb
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.dll
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.pdb
+C:\Users\ADMIN\Desktop\DesignPatternCSharp\DPPratice\ChainofReposibilities\obj\Debug\netcoreapp2.1\ChainofReposibilities.genruntimeconfig.cache
